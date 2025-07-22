@@ -9,6 +9,6 @@ I'm a data enthusiast from Jakarta, Indonesia 🇮🇩
 
 ## 📫 Contact
 - ✉️ rafaryasiregar@gmail.com
-- 🌐 LinkedIn: [https://www.linkedin.com/in/rafi-siregar-6b6935171/]
+- 🌐 LinkedIn: [Rafi Arya Siregar](https://www.linkedin.com/in/rafi-siregar-6b6935171/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafisiregar1444&show_icons=true&theme=dracula)
