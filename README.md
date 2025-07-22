@@ -16,10 +16,9 @@
 
 ---
 
-## About Me
+## 👋 About Me 
 
-👋 Hi, I’m Rafi!  
-I'm an IT Education graduate with a strong passion for Data Science and Machine Learning. I’m all about solving real-world problems by turning data into insights and creating smart, data-driven solutions.
+Hello, I’m Rafi Arya Siregar, but you can just call me Rafi! Here's a brief introduction about me:
 
 - 🎓 IT Education graduate with a passion for Data Science and Machine Learning.
 - 🔍 Skilled in data analysis, building interactive dashboards, and deploying machine learning models.
@@ -28,7 +27,7 @@ I'm an IT Education graduate with a strong passion for Data Science and Machine 
 
 ---
 
-## Skills-Tools-Framework
+## 🛠️ Skills-Tools-Framework
 
 **General Skills** 💡:  
 ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%2334A8E4.svg?style=for-the-badge) ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%230F8F3A.svg?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%234285E4.svg?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-%23202E56.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -51,11 +50,11 @@ I'm an IT Education graduate with a strong passion for Data Science and Machine 
 ---
 
 ## 🚀 Projects  
-- **[Analysis of Used BMWs for the Company Fleet] 🚗** (link)  
-- **[Employee Churn Prediction] 🔄** (link)  
-- **[Skin Type Detection] 🧴** (link)  
-- **[Comprehensive Analysis of Online Food Delivery Services] 🍔** (link)  
-- **[PPEye Vision: SOP Compliance Monitor] 👷‍♂️** (link)
+- **[Analysis of Used BMWs for the Company Fleet] 🚗** ([link](https://github.com/rafisiregar/Analysis-of-Used-BMWs-for-the-Company-Fleet))  
+- **[Employee Churn Prediction] 🔄** ([link](https://github.com/rafisiregar/Employee-Churn-Prediction))  
+- **[Skin Type Detection] 🧴** ([link](https://github.com/rafisiregar/Skin-Type-Detection))  
+- **[Comprehensive Analysis of Online Food Delivery Services] 🍔** ([link](https://github.com/rafisiregar/Comprehensive-Analysis-of-Online-Food-Delivery-Services))  
+- **[PPEye Vision: SOP Compliance Monitor] 👷‍♂️** ([link](https://github.com/putrafisabilal/PPEye))
 
 ---
 
