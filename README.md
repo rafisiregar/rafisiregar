@@ -1,8 +1,8 @@
 # Rafi Arya Siregar
 
-- **Email**: [![Email Me](https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaryasiregar@gmail.com)  
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-siregar-6b6935171/)  
-- **GitHub**: [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafisiregar1444)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-siregar-6b6935171/)  
+[![Email Me](https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaryasiregar@gmail.com)  
+[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafisiregar1444)
 
 ---
 
