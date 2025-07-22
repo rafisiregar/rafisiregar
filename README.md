@@ -1,18 +1,26 @@
-<div align="center">
-    ![Star Wars Intro](https://github.com/rafisiregar/rafisiregar/raw/main/githubgifreadme.gif)
+<div id="header" align="center">
+  <img src="https://github.com/rafisiregar/rafisiregar/raw/main/githubgifreadme.gif" width="200"/>
+  
+  <div id="badges">
+    <a href="mailto:rafaryasiregar@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/rafisiregar1444" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=rafisiregar1444&style=flat&color=brightgreen" alt=""/>
+  
+  <h1>
+    Hello there, Welcome to My GitHub Profile ✊
+  </h1>
 </div>
 
 <div align="center">
-    [![Gmail](https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaryasiregar@gmail.com)  
-    [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafisiregar1444)  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 
-### Profile Views
-<div align="center">
-    ![Profile Views](https://komarev.com/ghpvc/?username=rafisiregar1444&style=flat&color=brightgreen)
-</div>
-
----
 ---
 
 ## About Me
