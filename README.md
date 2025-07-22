@@ -3,10 +3,10 @@
   
   <div id="badges">
     <a href="mailto:rafaryasiregar@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GMAIL-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/rafiaryasiregar/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </div>
   
@@ -50,11 +50,12 @@ Hello, I’m Rafi Arya Siregar, but you can just call me Rafi! Here's a brief in
 ---
 
 ## 🚀 Projects  
-- **[Analysis of Used BMWs for the Company Fleet] 🚗** ([link](https://github.com/rafisiregar/Analysis-of-Used-BMWs-for-the-Company-Fleet))  
-- **[Employee Churn Prediction] 🔄** ([link](https://github.com/rafisiregar/Employee-Churn-Prediction))  
-- **[Skin Type Detection] 🧴** ([link](https://github.com/rafisiregar/Skin-Type-Detection))  
-- **[Comprehensive Analysis of Online Food Delivery Services] 🍔** ([link](https://github.com/rafisiregar/Comprehensive-Analysis-of-Online-Food-Delivery-Services))  
-- **[PPEye Vision: SOP Compliance Monitor] 👷‍♂️** ([link](https://github.com/putrafisabilal/PPEye))
+
+- **[Analysis of Used BMWs for the Company Fleet] 🚗** [Link](https://github.com/rafisiregar/Analysis-of-Used-BMWs-for-the-Company-Fleet)  
+- **[Employee Churn Prediction] 🔄** [Link](https://github.com/rafisiregar/Employee-Churn-Prediction)  
+- **[Skin Type Detection] 🧴** [Link](https://github.com/rafisiregar/Skin-Type-Detection)  
+- **[Comprehensive Analysis of Online Food Delivery Services] 🍔** [Link](https://github.com/rafisiregar/Comprehensive-Analysis-of-Online-Food-Delivery-Services)  
+- **[PPEye Vision: SOP Compliance Monitor] 👷‍♂️** [Link](https://github.com/putrafisabilal/PPEye)
 
 ---
 
