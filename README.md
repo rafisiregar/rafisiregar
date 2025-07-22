@@ -51,11 +51,11 @@ Hello, I’m Rafi Arya Siregar, but you can just call me Rafi! Here's a brief in
 
 ## 🚀 Projects  
 
-- **[Analysis of Used BMWs for the Company Fleet] 🚗** [Link](https://github.com/rafisiregar/Analysis-of-Used-BMWs-for-the-Company-Fleet)  
-- **[Employee Churn Prediction] 🔄** [Link](https://github.com/rafisiregar/Employee-Churn-Prediction)  
-- **[Skin Type Detection] 🧴** [Link](https://github.com/rafisiregar/Skin-Type-Detection)  
-- **[Comprehensive Analysis of Online Food Delivery Services] 🍔** [Link](https://github.com/rafisiregar/Comprehensive-Analysis-of-Online-Food-Delivery-Services)  
-- **[PPEye Vision: SOP Compliance Monitor] 👷‍♂️** [Link](https://github.com/putrafisabilal/PPEye)
+- **[Analysis of Used BMWs for the Company Fleet](https://github.com/rafisiregar/Analysis-of-Used-BMWs-for-the-Company-Fleet)** 🚗
+- **[Employee Churn Prediction](https://github.com/rafisiregar/Employee-Churn-Prediction)** 🔄
+- **[Skin Type Detection](https://github.com/rafisiregar/Skin-Type-Detection)** 🧴
+- **[Comprehensive Analysis of Online Food Delivery Services](https://github.com/rafisiregar/Comprehensive-Analysis-of-Online-Food-Delivery-Services)** 🍔
+- **[PPEye Vision: SOP Compliance Monitor](https://github.com/putrafisabilal/PPEye)** 👷‍♂
 
 ---
 
