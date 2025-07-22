@@ -1,9 +1,8 @@
 # Rafi Arya Siregar
 
-## 📫 Contact  
-- 📧 Email: [rafaryasiregar@gmail.com](mailto:rafaryasiregar@gmail.com)  
-- 🔗 LinkedIn: [Rafi Arya Siregar](https://www.linkedin.com/in/rafi-siregar-6b6935171/)  
-- 🐱 GitHub: [Rafi's Github](https://github.com/rafisiregar1444)  
+- **Email**: [![Email Me](https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaryasiregar@gmail.com)  
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-siregar-6b6935171/)  
+- **GitHub**: [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafisiregar1444)
 
 ---
 
@@ -13,14 +12,51 @@ I am an IT Education graduate with a passion for data science and machine learni
 ---
 
 ## 🔧 Skills  
+
+**General Skills:**  
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%2334A8E4.svg?style=for-the-badge)  
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%230F8F3A.svg?style=for-the-badge)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%234285E4.svg?style=for-the-badge)  
+![NLP](https://img.shields.io/badge/NLP-%23202E56.svg?style=for-the-badge&logo=python&logoColor=white)
+
+**Programming Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%233B4B59.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%23007498.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-%234E9FD9.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-%234E9FD9.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Libraries / Frameworks:**  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230A4B5F.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-%23135D8C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-%23138C8C.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-%230A3D91.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Feature-engine](https://img.shields.io/badge/Feature--engine-%23F8B913.svg?style=for-the-badge)  
+![Ultralytics YOLOv8](https://img.shields.io/badge/Ultralytics%20YOLOv8-%2342A6E1.svg?style=for-the-badge)
+
+**Tools:**  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23267600.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%2300B5B5.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Visualization Tools:**  
 ![Tableau](https://img.shields.io/badge/Tableau-%2334A8E4.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+![Kibana](https://img.shields.io/badge/Kibana-%23F2A900.svg?style=for-the-badge&logo=kibana&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-%2332A852.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%233D3D3D.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+
+**Other:**  
+![Film Scriptwriting](https://img.shields.io/badge/Film%20Scriptwriting-%23000000.svg?style=for-the-badge&logo=write-your-own-logo&logoColor=white)
 
 ---
 
@@ -49,13 +85,6 @@ I am an IT Education graduate with a passion for data science and machine learni
 
 ## 📊 GitHub Stats
 
-[![Rafi Arya Siregar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafisiregar1444&show_icons=true&count_private=true&theme=radical&hide_title=true)](https://github.com/rafisiregar1444)
+[![Rafi Arya Siregar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafisiregar&show_icons=true&count_private=true&theme=radical&hide_title=true)](https://github.com/rafisiregar)
 
 ---
-
-## 💻 8-Bit Styled Contact Buttons  
-
-- **Email**: [![Email Me](https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaryasiregar@gmail.com)  
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-siregar-6b6935171/)  
-- **GitHub**: [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafisiregar1444)
-
