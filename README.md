@@ -34,9 +34,13 @@ Here are some of the projects I've worked on:
 - **TOEFL ITP** - English proficiency score: 582 - Issued August 2023
 - **SAE Institute** - Short Film Scriptwriting Program - Issued October 2021
 
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafisiregar1444&show_icons=true&theme=dracula)
+Here's your GitHub Stats with a working badge:
+
+[![Rafi Arya Siregar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafisiregar1444&show_icons=true&count_private=true&theme=dracula)](https://github.com/rafisiregar1444)
 
 ---
 
