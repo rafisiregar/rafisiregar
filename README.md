@@ -35,10 +35,10 @@ I'm an IT Education graduate with a strong passion for Data Science and Machine 
 
 ---
 
-## 🔧 Skills-Tools-Framework
+## Skills-Tools-Framework
 
 **General Skills** 💡:  
-![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%2334A8E4.svg?style=for-the-badge) ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%230F8F3A.svg?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%234285E4.svg?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-%23202E56.svg?style=for-the-badge&logo=python&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%2334A8E4.svg?style=for-the-badge) ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%230F8F3A.svg?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%234285E4.svg?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-%23202E56.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Programming Languages** 💻:  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233B4B59.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23007498.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-%234E9FD9.svg?style=for-the-badge&logo=mongodb&logoColor=white)
