@@ -1,13 +1,23 @@
-# Rafi Arya Siregar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-siregar-6b6935171/)  
-[![Email Me](https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaryasiregar@gmail.com)  
-[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafisiregar1444)
+<div align="center">
+    [![Gmail](https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaryasiregar@gmail.com)  
+    [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafisiregar1444)  
+</div>
+
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=rafisiregar1444&style=flat&color=brightgreen)
 
 ---
 
-## 👨‍💻 About  
-I am an IT Education graduate with a passion for data science and machine learning! Skilled in data analysis, building interactive dashboards, and deploying machine learning models, I continuously strive to improve and apply my technical skills to create impactful, data-driven solutions. Always eager to learn, I am excited to grow in this field and take on new challenges.
+## About Me
+
+👋 Hi, I’m Rafi!  
+I'm an IT Education graduate with a strong passion for Data Science and Machine Learning. I’m all about solving real-world problems by turning data into insights and creating smart, data-driven solutions.
+
+- 🎓 IT Education graduate with a passion for Data Science and Machine Learning.
+- 🔍 Skilled in data analysis, building interactive dashboards, and deploying machine learning models.
+- 📚 Always learning and exploring new techniques in data science.
+- 🌱 Excited to grow in the field and take on new challenges.
 
 ---
 
