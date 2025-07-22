@@ -1,4 +1,6 @@
-![Star Wars Intro](https://github.com/rafisiregar/rafisiregar/raw/main/githubgifreadme.gif)
+<div align="center">
+    ![Star Wars Intro](https://github.com/rafisiregar/rafisiregar/raw/main/githubgifreadme.gif)
+</div>
 
 <div align="center">
     [![Gmail](https://img.shields.io/badge/Email%20Me-%23E74C3C.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaryasiregar@gmail.com)  
@@ -6,8 +8,11 @@
 </div>
 
 ### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=rafisiregar1444&style=flat&color=brightgreen)
+<div align="center">
+    ![Profile Views](https://komarev.com/ghpvc/?username=rafisiregar1444&style=flat&color=brightgreen)
+</div>
 
+---
 ---
 
 ## About Me
